@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#424242</color>
+    <color name="window_background">#000000</color>
+    <color name="blue_rectangle">#5C6BC0</color>
+    <color name="pink_rectangle">#FF4081</color>
+    <color name="red_rectangle">#B71C1C</color>
+    <color name="grey_rectangle">#E0E0E0</color>
+    <color name="dark_blue_rectangle">#283593</color>
+</resources>
